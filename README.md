@@ -8,4 +8,4 @@ Laboratorio de Computación e Interacción Humano-Computadora
 | Méndez Cabrera Ana Belem       | 
 | Méndez Cabrera Luis Enrique    | 
 | Riaño enriquez Donovan          | 
-| _________________________________| 
+

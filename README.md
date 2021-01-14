@@ -2,6 +2,7 @@
 Repositorio con Ejecutable y recursos del proyecto final
 
 Laboratorio de Computación e Interacción Humano-Computadora
+Grupo 05
 
 | Integrantes                     | 
 | ------------------------------ | 

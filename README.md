@@ -1,12 +1,15 @@
-# Proyecto-Final-Lab-CGeIHC
+# Proyecto-Final-CGeIHC
 Repositorio con Ejecutable y recursos del proyecto final
 
-Laboratorio de Computación e Interacción Humano-Computadora
-Grupo 05
+Computación e Interacción Humano-Computadora
+Grupo 
 
-| Integrantes                     | 
+| Integrantes                    | 
 | ------------------------------ | 
 | Méndez Cabrera Ana Belem       | 
+| ------------------------------ | 
+| Compañeros de laboratorio      | 
+| ------------------------------ |
 | Méndez Cabrera Luis Enrique    | 
-| Riaño Enriquez Donovan          | 
+| Riaño Enriquez Donovan         | 
 
